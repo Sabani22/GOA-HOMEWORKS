@@ -1,0 +1,11 @@
+name =  input('Enter your name:')
+last_name =  input('Enter your last name:')
+age = input('Input your age:')
+height = input('Input your Height:')
+weight = input('Input your Weight:')
+
+print('Name:', name)
+print('Last name:', last_name)
+print('Age:', age)
+print('Height:', height)
+print('Weight:', weight)

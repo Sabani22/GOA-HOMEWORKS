@@ -1,0 +1,11 @@
+goa = input('what do you like about goa?: ')
+learning = input('what did you learn in goa academy?: ')
+theatre = input('How often do you go to the theatre: ')
+satisfaction = input('are you satisfied of goa academy?: ')
+hackathons = input('Do you visit hackathons?: ')
+
+print("Goa:", goa)
+print("Learning:", learning)
+print("Theatre:", theatre)
+print("Satisfaction", satisfaction)
+print("Hackathons:", hackathons)
