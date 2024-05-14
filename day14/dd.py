@@ -9,7 +9,7 @@ mom_name = input("Enter mom's name: ")
 dad_name = input("Enter dad's name: ")
 
 # მეგობრების სახელის პრინტი
-print("Your friends are:")
+print("The friends you named:")
 print("1. " + friend1)
 print("2. " + friend2)
 print("3. " + friend3)
